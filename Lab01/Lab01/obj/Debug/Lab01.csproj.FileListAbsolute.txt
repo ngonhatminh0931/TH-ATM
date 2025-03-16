@@ -1,0 +1,12 @@
+D:\ATM\Lab01\Lab01\bin\Debug\Lab01.exe.config
+D:\ATM\Lab01\Lab01\bin\Debug\Lab01.exe
+D:\ATM\Lab01\Lab01\bin\Debug\Lab01.pdb
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.Control.resources
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.Task2.resources
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.exe
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.pdb
+D:\ATM\Lab01\Lab01\obj\Debug\Lab01.Task4.resources
