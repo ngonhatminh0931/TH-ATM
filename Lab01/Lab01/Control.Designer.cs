@@ -39,7 +39,7 @@
             this.label_Tittle.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Tittle.Font = new System.Drawing.Font("Ravie", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Tittle.ForeColor = System.Drawing.Color.Peru;
-            this.label_Tittle.Location = new System.Drawing.Point(90, 29);
+            this.label_Tittle.Location = new System.Drawing.Point(40, 36);
             this.label_Tittle.Name = "label_Tittle";
             this.label_Tittle.Size = new System.Drawing.Size(672, 54);
             this.label_Tittle.TabIndex = 35;
@@ -56,7 +56,7 @@
             this.button_Task2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Task2.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Task2.ForeColor = System.Drawing.Color.Peru;
-            this.button_Task2.Location = new System.Drawing.Point(99, 126);
+            this.button_Task2.Location = new System.Drawing.Point(70, 126);
             this.button_Task2.Name = "button_Task2";
             this.button_Task2.Size = new System.Drawing.Size(663, 43);
             this.button_Task2.TabIndex = 43;
@@ -75,7 +75,7 @@
             this.button_Task4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Task4.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Task4.ForeColor = System.Drawing.Color.Peru;
-            this.button_Task4.Location = new System.Drawing.Point(99, 210);
+            this.button_Task4.Location = new System.Drawing.Point(70, 210);
             this.button_Task4.Name = "button_Task4";
             this.button_Task4.Size = new System.Drawing.Size(663, 43);
             this.button_Task4.TabIndex = 44;
@@ -88,7 +88,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LemonChiffon;
-            this.ClientSize = new System.Drawing.Size(839, 574);
+            this.ClientSize = new System.Drawing.Size(805, 574);
             this.Controls.Add(this.button_Task4);
             this.Controls.Add(this.button_Task2);
             this.Controls.Add(this.label_Tittle);

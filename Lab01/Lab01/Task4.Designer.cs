@@ -59,7 +59,7 @@
             // 
             this.textBox_Key.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_Key.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.textBox_Key.Location = new System.Drawing.Point(166, 414);
+            this.textBox_Key.Location = new System.Drawing.Point(166, 417);
             this.textBox_Key.Name = "textBox_Key";
             this.textBox_Key.Size = new System.Drawing.Size(297, 34);
             this.textBox_Key.TabIndex = 3;
@@ -71,7 +71,7 @@
             this.label_Key.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Key.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Key.ForeColor = System.Drawing.Color.Peru;
-            this.label_Key.Location = new System.Drawing.Point(32, 414);
+            this.label_Key.Location = new System.Drawing.Point(32, 417);
             this.label_Key.Name = "label_Key";
             this.label_Key.Size = new System.Drawing.Size(62, 27);
             this.label_Key.TabIndex = 2;
@@ -95,7 +95,7 @@
             this.label_KeyMatrix.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_KeyMatrix.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_KeyMatrix.ForeColor = System.Drawing.Color.Peru;
-            this.label_KeyMatrix.Location = new System.Drawing.Point(600, 21);
+            this.label_KeyMatrix.Location = new System.Drawing.Point(589, 21);
             this.label_KeyMatrix.Name = "label_KeyMatrix";
             this.label_KeyMatrix.Size = new System.Drawing.Size(170, 27);
             this.label_KeyMatrix.TabIndex = 5;
@@ -109,7 +109,7 @@
             this.textBox_Result.Multiline = true;
             this.textBox_Result.Name = "textBox_Result";
             this.textBox_Result.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox_Result.Size = new System.Drawing.Size(297, 386);
+            this.textBox_Result.Size = new System.Drawing.Size(297, 389);
             this.textBox_Result.TabIndex = 7;
             // 
             // label_Result
@@ -118,7 +118,7 @@
             this.label_Result.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Result.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Result.ForeColor = System.Drawing.Color.Peru;
-            this.label_Result.Location = new System.Drawing.Point(982, 21);
+            this.label_Result.Location = new System.Drawing.Point(971, 21);
             this.label_Result.Name = "label_Result";
             this.label_Result.Size = new System.Drawing.Size(102, 27);
             this.label_Result.TabIndex = 6;
@@ -135,7 +135,7 @@
             this.button_Encrypt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Encrypt.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Encrypt.ForeColor = System.Drawing.Color.Peru;
-            this.button_Encrypt.Location = new System.Drawing.Point(534, 338);
+            this.button_Encrypt.Location = new System.Drawing.Point(546, 338);
             this.button_Encrypt.Name = "button_Encrypt";
             this.button_Encrypt.Size = new System.Drawing.Size(143, 43);
             this.button_Encrypt.TabIndex = 26;
@@ -167,7 +167,7 @@
             this.button_Decrypt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Decrypt.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Decrypt.ForeColor = System.Drawing.Color.Peru;
-            this.button_Decrypt.Location = new System.Drawing.Point(534, 409);
+            this.button_Decrypt.Location = new System.Drawing.Point(546, 408);
             this.button_Decrypt.Name = "button_Decrypt";
             this.button_Decrypt.Size = new System.Drawing.Size(143, 43);
             this.button_Decrypt.TabIndex = 30;

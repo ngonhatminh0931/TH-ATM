@@ -92,7 +92,7 @@
             this.label_Tittle.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Tittle.Font = new System.Drawing.Font("Ravie", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Tittle.ForeColor = System.Drawing.Color.Peru;
-            this.label_Tittle.Location = new System.Drawing.Point(213, 9);
+            this.label_Tittle.Location = new System.Drawing.Point(199, 9);
             this.label_Tittle.Name = "label_Tittle";
             this.label_Tittle.Size = new System.Drawing.Size(605, 81);
             this.label_Tittle.TabIndex = 39;
@@ -132,7 +132,7 @@
             this.button_Decrypt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Decrypt.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Decrypt.ForeColor = System.Drawing.Color.Peru;
-            this.button_Decrypt.Location = new System.Drawing.Point(313, 315);
+            this.button_Decrypt.Location = new System.Drawing.Point(308, 315);
             this.button_Decrypt.Name = "button_Decrypt";
             this.button_Decrypt.Size = new System.Drawing.Size(143, 43);
             this.button_Decrypt.TabIndex = 43;
