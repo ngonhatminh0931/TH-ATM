@@ -28,5 +28,11 @@ namespace Lab01
             Form form = new Task4();
             form.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form task5 = new Task5();
+            task5.Show();
+        }
     }
 }
