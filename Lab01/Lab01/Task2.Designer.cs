@@ -45,10 +45,9 @@
             // 
             this.textBox_Key.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_Key.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.textBox_Key.Location = new System.Drawing.Point(219, 387);
-            this.textBox_Key.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox_Key.Location = new System.Drawing.Point(159, 258);
             this.textBox_Key.Name = "textBox_Key";
-            this.textBox_Key.Size = new System.Drawing.Size(407, 44);
+            this.textBox_Key.Size = new System.Drawing.Size(297, 34);
             this.textBox_Key.TabIndex = 38;
             this.textBox_Key.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_Key_KeyPress);
             // 
@@ -58,10 +57,9 @@
             this.label_Key.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Key.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Key.ForeColor = System.Drawing.Color.Peru;
-            this.label_Key.Location = new System.Drawing.Point(34, 387);
-            this.label_Key.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_Key.Location = new System.Drawing.Point(25, 258);
             this.label_Key.Name = "label_Key";
-            this.label_Key.Size = new System.Drawing.Size(88, 38);
+            this.label_Key.Size = new System.Drawing.Size(62, 27);
             this.label_Key.TabIndex = 37;
             this.label_Key.Text = "Key";
             // 
@@ -69,12 +67,11 @@
             // 
             this.textBox_Message.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_Message.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.textBox_Message.Location = new System.Drawing.Point(219, 170);
-            this.textBox_Message.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox_Message.Location = new System.Drawing.Point(159, 113);
             this.textBox_Message.Multiline = true;
             this.textBox_Message.Name = "textBox_Message";
             this.textBox_Message.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox_Message.Size = new System.Drawing.Size(407, 174);
+            this.textBox_Message.Size = new System.Drawing.Size(297, 117);
             this.textBox_Message.TabIndex = 36;
             // 
             // label_Message
@@ -83,10 +80,9 @@
             this.label_Message.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Message.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Message.ForeColor = System.Drawing.Color.Peru;
-            this.label_Message.Location = new System.Drawing.Point(34, 170);
-            this.label_Message.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_Message.Location = new System.Drawing.Point(25, 113);
             this.label_Message.Name = "label_Message";
-            this.label_Message.Size = new System.Drawing.Size(179, 38);
+            this.label_Message.Size = new System.Drawing.Size(128, 27);
             this.label_Message.TabIndex = 35;
             this.label_Message.Text = "Message";
             // 
@@ -96,10 +92,9 @@
             this.label_Tittle.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Tittle.Font = new System.Drawing.Font("Ravie", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Tittle.ForeColor = System.Drawing.Color.Peru;
-            this.label_Tittle.Location = new System.Drawing.Point(274, 14);
-            this.label_Tittle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_Tittle.Location = new System.Drawing.Point(216, 9);
             this.label_Tittle.Name = "label_Tittle";
-            this.label_Tittle.Size = new System.Drawing.Size(845, 111);
+            this.label_Tittle.Size = new System.Drawing.Size(605, 81);
             this.label_Tittle.TabIndex = 39;
             this.label_Tittle.Text = "Ceasar Cipher";
             // 
@@ -107,12 +102,11 @@
             // 
             this.textBox_Result.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_Result.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.textBox_Result.Location = new System.Drawing.Point(896, 170);
-            this.textBox_Result.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox_Result.Location = new System.Drawing.Point(652, 113);
             this.textBox_Result.Multiline = true;
             this.textBox_Result.Name = "textBox_Result";
             this.textBox_Result.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox_Result.Size = new System.Drawing.Size(407, 174);
+            this.textBox_Result.Size = new System.Drawing.Size(297, 117);
             this.textBox_Result.TabIndex = 41;
             // 
             // label_Result
@@ -121,10 +115,9 @@
             this.label_Result.BackColor = System.Drawing.Color.LemonChiffon;
             this.label_Result.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Result.ForeColor = System.Drawing.Color.Peru;
-            this.label_Result.Location = new System.Drawing.Point(707, 170);
-            this.label_Result.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label_Result.Location = new System.Drawing.Point(514, 113);
             this.label_Result.Name = "label_Result";
-            this.label_Result.Size = new System.Drawing.Size(142, 38);
+            this.label_Result.Size = new System.Drawing.Size(102, 27);
             this.label_Result.TabIndex = 40;
             this.label_Result.Text = "Result";
             // 
@@ -139,10 +132,9 @@
             this.button_Decrypt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Decrypt.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Decrypt.ForeColor = System.Drawing.Color.Peru;
-            this.button_Decrypt.Location = new System.Drawing.Point(424, 472);
-            this.button_Decrypt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button_Decrypt.Location = new System.Drawing.Point(308, 315);
             this.button_Decrypt.Name = "button_Decrypt";
-            this.button_Decrypt.Size = new System.Drawing.Size(197, 64);
+            this.button_Decrypt.Size = new System.Drawing.Size(143, 43);
             this.button_Decrypt.TabIndex = 43;
             this.button_Decrypt.Text = "Decrypt";
             this.button_Decrypt.UseVisualStyleBackColor = false;
@@ -159,10 +151,9 @@
             this.button_Encrypt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Encrypt.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Encrypt.ForeColor = System.Drawing.Color.Peru;
-            this.button_Encrypt.Location = new System.Drawing.Point(219, 472);
-            this.button_Encrypt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button_Encrypt.Location = new System.Drawing.Point(159, 315);
             this.button_Encrypt.Name = "button_Encrypt";
-            this.button_Encrypt.Size = new System.Drawing.Size(197, 64);
+            this.button_Encrypt.Size = new System.Drawing.Size(143, 43);
             this.button_Encrypt.TabIndex = 42;
             this.button_Encrypt.Text = "Encrypt";
             this.button_Encrypt.UseVisualStyleBackColor = false;
@@ -179,10 +170,9 @@
             this.button_checkKey.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_checkKey.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_checkKey.ForeColor = System.Drawing.Color.Peru;
-            this.button_checkKey.Location = new System.Drawing.Point(41, 567);
-            this.button_checkKey.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button_checkKey.Location = new System.Drawing.Point(30, 378);
             this.button_checkKey.Name = "button_checkKey";
-            this.button_checkKey.Size = new System.Drawing.Size(223, 64);
+            this.button_checkKey.Size = new System.Drawing.Size(162, 43);
             this.button_checkKey.TabIndex = 44;
             this.button_checkKey.Text = "Check Key";
             this.button_checkKey.UseVisualStyleBackColor = false;
@@ -192,20 +182,18 @@
             // 
             this.textBox_checkKey.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_checkKey.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.textBox_checkKey.Location = new System.Drawing.Point(41, 640);
-            this.textBox_checkKey.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox_checkKey.Location = new System.Drawing.Point(30, 427);
             this.textBox_checkKey.Multiline = true;
             this.textBox_checkKey.Name = "textBox_checkKey";
             this.textBox_checkKey.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox_checkKey.Size = new System.Drawing.Size(1262, 258);
+            this.textBox_checkKey.Size = new System.Drawing.Size(919, 173);
             this.textBox_checkKey.TabIndex = 45;
             // 
             // Task2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.LemonChiffon;
-            this.ClientSize = new System.Drawing.Size(1387, 932);
+            this.ClientSize = new System.Drawing.Size(973, 621);
             this.Controls.Add(this.textBox_checkKey);
             this.Controls.Add(this.button_checkKey);
             this.Controls.Add(this.button_Decrypt);
@@ -217,7 +205,6 @@
             this.Controls.Add(this.label_Key);
             this.Controls.Add(this.textBox_Message);
             this.Controls.Add(this.label_Message);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Task2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Task2";

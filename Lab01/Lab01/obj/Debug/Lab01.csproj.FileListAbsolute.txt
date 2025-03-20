@@ -35,3 +35,4 @@ D:\ASUS\Desktop\TH-ATM\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cach
 D:\ASUS\Desktop\TH-ATM\Lab01\Lab01\obj\Debug\Lab01.exe
 D:\ASUS\Desktop\TH-ATM\Lab01\Lab01\obj\Debug\Lab01.pdb
 D:\ASUS\Desktop\TH-ATM\Lab01\Lab01\obj\Debug\Lab01.Task5.resources
+D:\Desktop\TH-ATM\Lab01\Lab01\obj\Debug\Lab01.Task5.resources
