@@ -60,7 +60,7 @@
             this.button_Task2.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Task2.ForeColor = System.Drawing.Color.Peru;
             this.button_Task2.Location = new System.Drawing.Point(96, 189);
-            this.button_Task2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button_Task2.Margin = new System.Windows.Forms.Padding(4);
             this.button_Task2.Name = "button_Task2";
             this.button_Task2.Size = new System.Drawing.Size(912, 64);
             this.button_Task2.TabIndex = 43;
@@ -80,7 +80,7 @@
             this.button_Task4.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Task4.ForeColor = System.Drawing.Color.Peru;
             this.button_Task4.Location = new System.Drawing.Point(96, 314);
-            this.button_Task4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button_Task4.Margin = new System.Windows.Forms.Padding(4);
             this.button_Task4.Name = "button_Task4";
             this.button_Task4.Size = new System.Drawing.Size(912, 64);
             this.button_Task4.TabIndex = 44;
@@ -104,8 +104,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(912, 64);
             this.button1.TabIndex = 46;
-            this.button1.Text = "Task6: ";
+            this.button1.Text = "Task6: Hill Cipher";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -138,7 +139,7 @@
             this.Controls.Add(this.button_Task4);
             this.Controls.Add(this.button_Task2);
             this.Controls.Add(this.label_Tittle);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Control";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Control";
