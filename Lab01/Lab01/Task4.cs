@@ -181,11 +181,11 @@ namespace Lab01
 
             if (rowA == rowB)
             {
-                return (matrix[rowA, (colA + size - 1) % size], matrix[rowB, (colB + size - 1) % size]);
+                return (matrix[rowA, (colA - 1 + size) % size], matrix[rowB, (colB - 1 + size) % size]);
             }
             else if (colA == colB)
             {
-                return (matrix[(rowA + size - 1) % size, colA], matrix[(rowB + size - 1) % size, colB]);
+                return (matrix[(rowA - 1 + size) % size, colA], matrix[(rowB - 1 + size) % size, colB]);
             }
             else
             {
@@ -193,18 +193,27 @@ namespace Lab01
             }
         }
 
-        private string Decrypt(string cipherText, string key, bool use6x6)
+        private string Decrypt(string cipherText, string key)
         {
+            bool use6x6 = ContainsDigit(cipherText);
             GenerateMatrix(key, use6x6);
-            string plainText = "";
+            List<(char, char)> digraphs = PreprocessText(cipherText, use6x6);
 
-            for (int i = 0; i < cipherText.Length; i += 2)
+            StringBuilder plainText = new StringBuilder();
+
+            foreach (var (a, b) in digraphs)
             {
-                var (decA, decB) = DecryptPair(cipherText[i], cipherText[i + 1]);
-                plainText += decA.ToString() + decB.ToString();
+                if (!position.ContainsKey(a) || !position.ContainsKey(b))
+                {
+                    MessageBox.Show($"Lỗi: Ký tự {a} hoặc {b} không có trong ma trận!");
+                    return "";
+                }
+
+                var (decA, decB) = DecryptPair(a, b);
+                plainText.Append(decA).Append(decB);
             }
 
-            return plainText;
+            return plainText.ToString();
         }
 
         private void button_Encrypt_Click(object sender, EventArgs e)
@@ -230,18 +239,13 @@ namespace Lab01
                 return;
             }
 
-            string encryptedText = Encrypt(input, key);
-            if (!string.IsNullOrEmpty(encryptedText))
-            {
-                textBox_Result.Text = encryptedText;
-            }
+            textBox_Result.Text = Encrypt(input, key);
         }
 
         private void button_Decrypt_Click(object sender, EventArgs e)
         {
             string key = textBox_Key.Text;
             string input = textBox_Message.Text;
-            bool use6x6 = ContainsDigit(input);
 
             if (string.IsNullOrWhiteSpace(key) && string.IsNullOrWhiteSpace(input))
             {
@@ -261,7 +265,7 @@ namespace Lab01
                 return;
             }
 
-            textBox_Result.Text = Decrypt(input, key, use6x6);
+            textBox_Result.Text = Decrypt(input, key);
         }
 
         private void InitializeMatrix(int size)
