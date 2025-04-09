@@ -16,5 +16,17 @@ namespace Lab02
         {
             InitializeComponent();
         }
+
+        private void button_Task1_Click(object sender, EventArgs e)
+        {
+            Form form = new Task1();
+            form.Show();
+        }
+
+        private void button_Task2_Click(object sender, EventArgs e)
+        {
+            Form form = new Task2();
+            form.Show();
+        }
     }
 }

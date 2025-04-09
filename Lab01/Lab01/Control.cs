@@ -40,5 +40,10 @@ namespace Lab01
             Form task6 = new Task6();
             task6.Show();
         }
+
+        private void label_Tittle_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

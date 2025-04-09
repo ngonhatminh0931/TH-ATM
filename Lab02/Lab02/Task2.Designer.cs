@@ -1,6 +1,6 @@
 ﻿namespace Lab02
 {
-    partial class Task1__PUBLICKEYCRYPTOGRAPHY
+    partial class Task2
     {
         /// <summary>
         /// Required designer variable.
@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Task1__PUBLICKEYCRYPTOGRAPHY";
+            this.Text = "Task2";
         }
 
         #endregion

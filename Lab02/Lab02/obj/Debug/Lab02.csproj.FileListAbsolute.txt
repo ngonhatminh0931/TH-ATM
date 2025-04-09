@@ -1,0 +1,10 @@
+D:\Desktop\TH-ATM\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\Desktop\TH-ATM\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\Desktop\TH-ATM\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Control.resources
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.pdb

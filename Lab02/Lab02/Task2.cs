@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Lab02
 {
-    public partial class Task2__PUBLICKEYCRYPTOGRAPHY : Form
+    public partial class Task2 : Form
     {
-        public Task2__PUBLICKEYCRYPTOGRAPHY()
+        public Task2()
         {
             InitializeComponent();
         }
