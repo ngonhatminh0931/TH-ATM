@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASUS\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\",
+  "WorkspaceRootPath": "D:\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F134977-7ECE-42BA-8CF1-A573C7A4E3C6}|Task2_RSA_Encryption.vcxproj|D:\\ASUS\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6F134977-7ECE-42BA-8CF1-A573C7A4E3C6}|Task2_RSA_Encryption.vcxproj|D:\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F134977-7ECE-42BA-8CF1-A573C7A4E3C6}|Task2_RSA_Encryption.vcxproj|solutionrelative:Task2_RSA_Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -13,36 +13,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
           "DockedWidth": 923,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task2_RSA_Encryption.cpp",
-              "DocumentMoniker": "D:\\ASUS\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp",
+              "DocumentMoniker": "D:\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp",
               "RelativeDocumentMoniker": "Task2_RSA_Encryption.cpp",
-              "ToolTip": "D:\\ASUS\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp",
+              "ToolTip": "D:\\Desktop\\TH-ATM\\Lab02\\Task2_RSA_Encryption\\Task2_RSA_Encryption.cpp",
               "RelativeToolTip": "Task2_RSA_Encryption.cpp",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAlwMUAAAA0AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-09T10:06:33.353Z",
               "EditorCaption": ""

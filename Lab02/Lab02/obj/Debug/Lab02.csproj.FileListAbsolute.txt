@@ -19,12 +19,3 @@ D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
 D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
 D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.exe
 D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.pdb
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Control.resources
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Task1.resources
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.Task2.resources
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.exe
-D:\ASUS\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.pdb

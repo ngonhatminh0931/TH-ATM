@@ -66,11 +66,11 @@ namespace Lab02
             }
             else
             {
-                int Base;
+                BigInteger Base;
                 int Exponent;
                 PowerSplit(textBox_LargeInt1c.Text, out Base, out Exponent);
-                BigInteger LargeInt = BigInteger.Pow(Base, Exponent) - 1;
-                if(LargeInt >= max)
+                BigInteger LargeInt = BigInteger.Pow(Base, Exponent);
+                if(LargeInt > max)
                 {
                     MessageBox.Show("Please take an integer less than 2^89 - 1");
                 }
@@ -119,16 +119,16 @@ namespace Lab02
             else
             {
                 textBox_Result.Text = "";
-                int Base1;
+                BigInteger Base1;
                 int Exponent1;
-                PowerSplit(textBox_LargeInt1c.Text, out Base1, out Exponent1);
+                PowerSplit(textBox_LargeInt21.Text, out Base1, out Exponent1);
                 BigInteger a = BigInteger.Pow(Base1, Exponent1);
-                int Base2;
+                BigInteger Base2;
                 int Exponent2;
-                PowerSplit(textBox_LargeInt1c.Text, out Base2, out Exponent2);
+                PowerSplit(textBox_LargeInt22.Text, out Base2, out Exponent2);
                 BigInteger b = BigInteger.Pow(Base2, Exponent2);
                 BigInteger result = GCD(a, b);
-                textBox_Result.Text = $"GCD({a}, {b}) = {result}";
+                textBox_Result.Text = $"GCD({textBox_LargeInt21.Text}, {textBox_LargeInt22.Text}) = {result}";
             }
         }
 
@@ -155,12 +155,12 @@ namespace Lab02
             else
             {
                 textBox_Result.Text = ""; 
-                int a;
+                BigInteger a;
                 int x;
                 PowerSplit(textBox_LargeInt3.Text, out a, out x);
                 BigInteger p = BigInteger.Parse(textBox_Modulo.Text);
                 BigInteger result = ModularExponentiation(a, x, p);
-                textBox_Result.Text = $"{a}^{x} mod {p} = {result}";
+                textBox_Result.Text = $"{textBox_LargeInt3.Text} mod {p} = {result}";
             }
         }
 
@@ -239,7 +239,7 @@ namespace Lab02
             foreach (var m in mersennePrimes)
             {
                 BigInteger n = m - 1;
-                while (n > 2)
+                while (n >= 2)
                 {
                     if (IsProbablyPrime(n))
                     {
@@ -252,16 +252,27 @@ namespace Lab02
             return result;
         }
 
-        void PowerSplit(string input, out int Base, out int Exponent)
+        void PowerSplit(string input, out BigInteger Base, out int Exponent)
         {
-            string[] parts = input.Split('^');
-
-            if (parts.Length == 2 && int.TryParse(parts[0], out Base) && int.TryParse(parts[1], out Exponent))
+            if (input.Contains("^"))
             {
+                string[] parts = input.Split('^');
+                if (parts.Length == 2 && BigInteger.TryParse(parts[0], out Base) && Int32.TryParse(parts[1], out Exponent))
+                {
+                }
+                else
+                {
+                    Base = BigInteger.Zero;
+                    Exponent = 0;
+                }
+            }
+            else if (BigInteger.TryParse(input, out Base))
+            {
+                Exponent = 1;
             }
             else
             {
-                Base = 0;
+                Base = BigInteger.Zero;
                 Exponent = 0;
             }
         }
