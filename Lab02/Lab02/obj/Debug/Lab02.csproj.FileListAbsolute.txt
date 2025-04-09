@@ -8,3 +8,14 @@ D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
 D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
 D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.exe
 D:\Desktop\TH-ATM\Lab02\Lab02\obj\Debug\Lab02.pdb
+D:\TH-ATM\Lab2\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\TH-ATM\Lab2\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\TH-ATM\Lab2\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.Control.resources
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.Task1.resources
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\TH-ATM\Lab2\Lab02\Lab02\obj\Debug\Lab02.pdb
