@@ -1,0 +1,13 @@
+﻿  Task2_RSA_Encryption.cpp
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(115,26): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(115,26): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(115,26): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(127,26): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(127,26): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(127,26): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(127,26): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(127,26): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1258)
+D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\Task2_RSA_Encryption.cpp(229,22): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1258)
+  Task2_RSA_Encryption.vcxproj -> D:\ASUS\Desktop\TH-ATM\Lab02\Task2_RSA_Encryption\x64\Debug\Task2_RSA_Encryption.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
