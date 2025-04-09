@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Desktop\\TH-ATM\\Lab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|d:\\desktop\\th-atm\\lab01\\lab01\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|solutionrelative:lab01\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|d:\\desktop\\th-atm\\lab01\\lab01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|solutionrelative:lab01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|d:\\desktop\\th-atm\\lab01\\lab01\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|solutionrelative:lab01\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|d:\\desktop\\th-atm\\lab01\\lab01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3964AC4-7C40-4FEA-A183-DFF079EE914F}|Lab01\\Lab01.csproj|solutionrelative:lab01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Control.cs",
-              "DocumentMoniker": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Control.cs",
-              "RelativeDocumentMoniker": "Lab01\\Control.cs",
-              "ToolTip": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Control.cs",
-              "RelativeToolTip": "Lab01\\Control.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBUAAAAMAAAA",
+              "Title": "Task4.cs",
+              "DocumentMoniker": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Task4.cs",
+              "RelativeDocumentMoniker": "Lab01\\Task4.cs",
+              "ToolTip": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Task4.cs",
+              "RelativeToolTip": "Lab01\\Task4.cs",
+              "ViewState": "AQIAACIBAAAAAAAAAAAswHIBAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:18:48.827Z",
+              "WhenOpened": "2025-04-09T17:52:49.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Control.cs [Design]",
-              "DocumentMoniker": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Control.cs",
-              "RelativeDocumentMoniker": "Lab01\\Control.cs",
-              "ToolTip": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Control.cs [Design]",
-              "RelativeToolTip": "Lab01\\Control.cs [Design]",
+              "Title": "Task4.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Task4.cs",
+              "RelativeDocumentMoniker": "Lab01\\Task4.cs",
+              "ToolTip": "D:\\Desktop\\TH-ATM\\Lab01\\Lab01\\Task4.cs [Design]",
+              "RelativeToolTip": "Lab01\\Task4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:11:49.963Z",
+              "WhenOpened": "2025-04-09T17:52:46.762Z",
               "EditorCaption": " [Design]"
             }
           ]
