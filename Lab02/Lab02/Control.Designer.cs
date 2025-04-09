@@ -28,29 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button_Task2 = new System.Windows.Forms.Button();
+            this.button_Task2_1 = new System.Windows.Forms.Button();
             this.button_Task1 = new System.Windows.Forms.Button();
             this.label_Tittle = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button_Task2
+            // button_Task2_1
             // 
-            this.button_Task2.AutoSize = true;
-            this.button_Task2.BackColor = System.Drawing.Color.LemonChiffon;
-            this.button_Task2.FlatAppearance.BorderColor = System.Drawing.Color.Peru;
-            this.button_Task2.FlatAppearance.BorderSize = 3;
-            this.button_Task2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightCyan;
-            this.button_Task2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightCyan;
-            this.button_Task2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button_Task2.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button_Task2.ForeColor = System.Drawing.Color.Peru;
-            this.button_Task2.Location = new System.Drawing.Point(60, 214);
-            this.button_Task2.Name = "button_Task2";
-            this.button_Task2.Size = new System.Drawing.Size(663, 43);
-            this.button_Task2.TabIndex = 47;
-            this.button_Task2.Text = "Task2: RSA Public-Key Encryption ";
-            this.button_Task2.UseVisualStyleBackColor = false;
-            this.button_Task2.Click += new System.EventHandler(this.button_Task2_Click);
+            this.button_Task2_1.AutoSize = true;
+            this.button_Task2_1.BackColor = System.Drawing.Color.LemonChiffon;
+            this.button_Task2_1.FlatAppearance.BorderColor = System.Drawing.Color.Peru;
+            this.button_Task2_1.FlatAppearance.BorderSize = 3;
+            this.button_Task2_1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightCyan;
+            this.button_Task2_1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightCyan;
+            this.button_Task2_1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_Task2_1.Font = new System.Drawing.Font("Ravie", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_Task2_1.ForeColor = System.Drawing.Color.Peru;
+            this.button_Task2_1.Location = new System.Drawing.Point(60, 214);
+            this.button_Task2_1.Name = "button_Task2_1";
+            this.button_Task2_1.Size = new System.Drawing.Size(663, 43);
+            this.button_Task2_1.TabIndex = 47;
+            this.button_Task2_1.Text = "Task2: RSA Public-Key Encryption ";
+            this.button_Task2_1.UseVisualStyleBackColor = false;
+            this.button_Task2_1.Click += new System.EventHandler(this.button_Task2_Click);
             // 
             // button_Task1
             // 
@@ -89,7 +89,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LemonChiffon;
             this.ClientSize = new System.Drawing.Size(799, 301);
-            this.Controls.Add(this.button_Task2);
+            this.Controls.Add(this.button_Task2_1);
             this.Controls.Add(this.button_Task1);
             this.Controls.Add(this.label_Tittle);
             this.Name = "Control";
@@ -101,7 +101,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button_Task2;
+        private System.Windows.Forms.Button button_Task2_1;
         private System.Windows.Forms.Button button_Task1;
         private System.Windows.Forms.Label label_Tittle;
     }

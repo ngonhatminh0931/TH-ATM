@@ -25,7 +25,7 @@ namespace Lab02
 
         private void button_Task2_Click(object sender, EventArgs e)
         {
-            Form form = new Task2();
+            Form form = new Task2_1();
             form.Show();
         }
     }
